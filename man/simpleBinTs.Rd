@@ -22,9 +22,6 @@ simpleBinTs(
 
 \item{ageVar}{age variable}
 }
-\value{
-
-}
 \description{
 simple binning of a TS object instance
 }

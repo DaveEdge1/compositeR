@@ -15,9 +15,6 @@ standardizeOverInterval(
 \arguments{
 \item{normalizeVariance}{}
 }
-\value{
-
-}
 \description{
 standardizeOverInterval
 }

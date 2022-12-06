@@ -23,9 +23,6 @@ standardizeMeanIteratively(
 
 \item{minN}{}
 }
-\value{
-
-}
 \description{
 standardizeMeanIteratively
 }

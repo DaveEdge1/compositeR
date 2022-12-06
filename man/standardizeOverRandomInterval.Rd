@@ -16,9 +16,6 @@ standardizeOverRandomInterval(
 \arguments{
 \item{minN}{}
 }
-\value{
-
-}
 \description{
 standardizeOverRandomInterval
 }

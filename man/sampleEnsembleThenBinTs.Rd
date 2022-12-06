@@ -22,9 +22,6 @@ sampleEnsembleThenBinTs(
 \arguments{
 \item{scope}{}
 }
-\value{
-
-}
 \description{
 sampleEnsembleThenBinTs
 }

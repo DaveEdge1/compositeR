@@ -10,6 +10,8 @@
 #' @param alignInterpDirection Optionally invert timeseries with negative interpretation_direction
 #' @param binFun Function to use for binning
 #'
+#' @import purrr
+#'
 #' @return
 #' @export
 compositeEnsembles <- function(fTS,

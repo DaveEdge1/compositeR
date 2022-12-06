@@ -9,9 +9,6 @@ recordRMSE(td, palMat)
 \arguments{
 \item{palMat}{}
 }
-\value{
-
-}
 \description{
 recordRMSE
 }

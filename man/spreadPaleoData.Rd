@@ -4,13 +4,22 @@
 \alias{spreadPaleoData}
 \title{spreadPaleoData}
 \usage{
-spreadPaleoData(age, value, spreadBy, maxGap, minAge = -69)
+spreadPaleoData(
+  age,
+  value,
+  newAge = NA,
+  spreadBy,
+  maxGap = NA,
+  maxPct = 0.75,
+  minAge = -69
+)
 }
 \arguments{
-\item{minAge}{}
-}
-\value{
+\item{newAge}{new age vector to spread over}
 
+\item{spreadBy}{if newAge is not supplied, what is the desired resolution of spread data.}
+
+\item{minAge}{}
 }
 \description{
 spreadPaleoData

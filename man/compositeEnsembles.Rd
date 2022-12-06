@@ -34,9 +34,6 @@ compositeEnsembles(
 
 \item{binFun}{Function to use for binning}
 }
-\value{
-
-}
 \description{
 Composite with uncertainty
 }

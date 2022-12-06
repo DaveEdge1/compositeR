@@ -9,9 +9,6 @@ removeConsecutiveDuplicates(spreadValues)
 \arguments{
 \item{spreadValues}{}
 }
-\value{
-
-}
 \description{
 remove consecutive duplicates
 }

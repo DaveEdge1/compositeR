@@ -15,9 +15,6 @@ simulateAutoCorrelatedUncertainty(
 \arguments{
 \item{arima.order}{}
 }
-\value{
-
-}
 \description{
 simulateAutoCorrelatedUncertainty
 }
