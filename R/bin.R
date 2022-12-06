@@ -147,7 +147,7 @@ spreadPaleoData <- function(age,
 
 
   #distance to nearest
-  d2n <- purr::map_dbl(newAgeOut,function(x) min(abs(x-age)))
+  d2n <- purrr::map_dbl(newAgeOut,function(x) min(abs(x-age)))
 
   #get local d2n maxima
   locmaxi <- which(diff(sign(diff(d2n)))==-2)+1
